@@ -32,6 +32,7 @@ public class Main {
                             "24\tX x\t|экс\n" +
                             "25\tY y\t|уай\n" +
                             "26\tZ z\t|зед, зи");
+        //efesf
         fileWriter.close();
         FileReader fileReader =new FileReader("abc.txt");
         Scanner scanner =new Scanner(fileReader);
